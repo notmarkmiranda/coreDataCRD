@@ -13,6 +13,7 @@
 		B4A3482A1ECBA69300322B98 /* todo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B4A348281ECBA69300322B98 /* todo.xcdatamodeld */; };
 		B4A3482C1ECBA69300322B98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4A3482B1ECBA69300322B98 /* Assets.xcassets */; };
 		B4A3482F1ECBA69300322B98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4A3482D1ECBA69300322B98 /* LaunchScreen.storyboard */; };
+		B4A348371ECBA8C700322B98 /* AddTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A348361ECBA8C700322B98 /* AddTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B4A3482B1ECBA69300322B98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4A3482E1ECBA69300322B98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B4A348301ECBA69300322B98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B4A348361ECBA8C700322B98 /* AddTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				B4A3482D1ECBA69300322B98 /* LaunchScreen.storyboard */,
 				B4A348301ECBA69300322B98 /* Info.plist */,
 				B4A348281ECBA69300322B98 /* todo.xcdatamodeld */,
+				B4A348361ECBA8C700322B98 /* AddTaskViewController.swift */,
 			);
 			path = todo;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4A348241ECBA69300322B98 /* ViewController.swift in Sources */,
+				B4A348371ECBA8C700322B98 /* AddTaskViewController.swift in Sources */,
 				B4A348221ECBA69300322B98 /* AppDelegate.swift in Sources */,
 				B4A3482A1ECBA69300322B98 /* todo.xcdatamodeld in Sources */,
 			);
